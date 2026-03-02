@@ -71,7 +71,12 @@ export default defineUserConfig({
       {
         text: '关于',
         link: '/pages/about/me.md',
-      }],
+      },
+      {
+        text: 'GitHub',
+        link: 'https://github.com/vennarshulytz',
+      }
+    ],
 
 
     // 侧边栏对象 - 不用页面配置不同的
